@@ -1,0 +1,34 @@
+{
+  "name": "@coecoders/eslint-config-ts",
+  "version": "1.0.0",
+  "description": "ESLint config for TypeScript projects",
+  "keywords": [],
+  "homepage": "https://github.com/cowcoders/eslint-config-ts#readme",
+  "bugs": {
+    "url": "https://github.com/cowcoders/eslint-config-ts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowcoders/eslint-config-ts.git"
+  },
+  "license": "ISC",
+  "author": "cowcoders",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Build here!\"",
+    "lint": "eslint --max-warnings 0 . --ext .js,.ts,.tsx",
+    "test": "echo \"Tests here!\""
+  },
+  "devDependencies": {
+    "@cowcoders/eslint-config-base": "1.1.1",
+    "@typescript-eslint/eslint-plugin": "6.4.0",
+    "@typescript-eslint/parser": "6.4.0",
+    "eslint": "8.47.0"
+  },
+  "peerDependencies": {
+    "@cowcoders/eslint-config-base": "1.1.1",
+    "@typescript-eslint/eslint-plugin": "6.4.0",
+    "@typescript-eslint/parser": "6.4.0",
+    "eslint": "8.47.0"
+  }
+}
