@@ -1,6 +1,6 @@
 {
   "name": "@cowcoders/eslint-config-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint config for TypeScript projects",
   "keywords": [],
   "homepage": "https://github.com/cowcoders/eslint-config-ts#readme",
