@@ -1,5 +1,5 @@
 {
-  "name": "@coecoders/eslint-config-ts",
+  "name": "@cowcoders/eslint-config-ts",
   "version": "1.0.0",
   "description": "ESLint config for TypeScript projects",
   "keywords": [],
